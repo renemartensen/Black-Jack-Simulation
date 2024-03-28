@@ -1,0 +1,21 @@
+GUI:
+
+-> Trainieren: https://spiele.rtl.de/kartenspiele/black-jack/spielen.html  
+
+-> Zahlen mit Tastatur eingeben
+
+-> Revert
+
+
+Simulator:
+
+-> Setup git
+-> Readme
+
+
+Game:
+
+Ein BJ spiel machen mit GUI
+
+
+
